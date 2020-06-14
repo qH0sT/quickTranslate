@@ -1,1 +1,1 @@
-# quickTranslate
+# Sagoya kulak ver.
