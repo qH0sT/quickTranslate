@@ -1,0 +1,12 @@
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\pratikCeviri\pratikCeviri\bin\Debug\pratikCeviri.exe.config
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\pratikCeviri\pratikCeviri\bin\Debug\pratikCeviri.exe
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\pratikCeviri\pratikCeviri\bin\Debug\pratikCeviri.pdb
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\pratikCeviri\pratikCeviri\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\pratikCeviri\pratikCeviri\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\pratikCeviri\pratikCeviri\obj\Debug\pratikCeviri.csprojResolveAssemblyReference.cache
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\pratikCeviri\pratikCeviri\obj\Debug\pratikCeviri.Ceviri.resources
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\pratikCeviri\pratikCeviri\obj\Debug\pratikCeviri.Form1.resources
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\pratikCeviri\pratikCeviri\obj\Debug\pratikCeviri.Properties.Resources.resources
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\pratikCeviri\pratikCeviri\obj\Debug\pratikCeviri.csproj.GenerateResource.Cache
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\pratikCeviri\pratikCeviri\obj\Debug\pratikCeviri.exe
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\pratikCeviri\pratikCeviri\obj\Debug\pratikCeviri.pdb
